@@ -1,0 +1,1 @@
+Comments in Python are the lines in the code that are ignored by the interpreter during the execution of the program. 
