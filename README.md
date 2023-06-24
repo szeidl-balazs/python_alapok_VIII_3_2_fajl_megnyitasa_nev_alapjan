@@ -1,0 +1,1 @@
+# python_alapok_VIII_3_2_fajl_megnyitasa_nev_alapjan
